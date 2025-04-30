@@ -1,12 +1,16 @@
-# Projeto Estacionamento - Início (abril/2025)
+# Projeto Estacionamento (abril/2025)
 
-🔎 Este repositório contém a pasta zip com a atividade realizada para a disciplina de Desenvolvimento Web III.
+🔎 Este repositório contém a pasta zip com o projeto realizado para a disciplina de Desenvolvimento Web III.
 
 ## Instruções do projeto:
 
 ### Dia 23/04:
 
-✨ Criar diretório
+✨ Criar diretório.
+
+### Dia 30/04:
+
+✨ Configurações do projeto.
     
 ## Autores
 
