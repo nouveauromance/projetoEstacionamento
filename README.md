@@ -19,3 +19,6 @@
 🔗 Aula por Vinícius Heltai Pacheco
 
 📍 Fatec Diadema Luigi Papaiz 
+
+## Observação
+⚠️ A pasta compactada é a tarefa do dia 23/04. O resto consiste nos códigos elaborados na aula do dia 30/04!!
